@@ -42,3 +42,4 @@ node name.js
 ### 1.0.0
 - first name (FR)
 - last name (FR)
+- departement (FR)
